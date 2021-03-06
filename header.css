@@ -1,0 +1,40 @@
+header{
+    background-color: blueviolet;
+    margin : 10px;
+    display: flex;
+    padding: 5px;
+}
+
+header ul{ 
+    list-style: none;
+    padding: 0px;
+    display: flex;
+    margin:0px;
+    margin-left:auto;
+}
+
+header ul li{
+    font-size: 30px;
+    color: aquamarine;
+    font-family:cursive;
+    text-decoration: underline;
+    cursor: pointer;
+    margin-left:25px;
+}
+
+.heading{
+    color : aquamarine;
+    font-family:fantasy;
+
+}
+
+h1,h2,h3,h4,h5,h6{
+
+    margin: 0;
+}
+
+body{
+    margin: 0;
+    padding:0;
+
+}

@@ -1,0 +1,26 @@
+img{
+    margin: 10px;
+    border-radius: 20px;
+    border: black 2px solid;
+}
+
+.img-big{
+    height: 500px;
+}
+
+.img-small{
+    height: 500px;
+}
+
+.sunset{
+    background-image: url("img/sunset.jpg");
+    height: 700px;
+    background-position:80% 50%;
+    color:rgb(50, 22, 102);
+    font-family:cursive; 
+    font-weight: bold;
+    font-size: 20px;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+}
